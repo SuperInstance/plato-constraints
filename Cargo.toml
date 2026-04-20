@@ -1,4 +1,7 @@
 [package]
+categories = ["science"]
+keywords = ["plato", "ai", "tiles", "rooms"]
+repository = "https://github.com/SuperInstance/plato-constraints"
 name = "plato-constraints"
 version = "0.1.0"
 edition = "2021"
